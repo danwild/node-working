@@ -1,0 +1,25 @@
+{
+  "name": "node-working",
+  "version": "1.0.0",
+  "description": "Simple node app for testing AWS deploy configurations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwild/node-working.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "danwild@y7mail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danwild/node-working/issues"
+  },
+  "homepage": "https://github.com/danwild/node-working#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
